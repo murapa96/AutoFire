@@ -1,9 +1,12 @@
-# AutoFIre
+# AutoFire
 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/murapa96/RapidFire)](https://github.com/murapa96/RapidFire/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/murapa96/RapidFire)](https://github.com/murapa96/RapidFire/commits/main)
+
+![autofire](https://github.com/user-attachments/assets/5130e29f-392d-4e2a-a56d-571094203bd8)
+
 
 A utility for automatically pressing keys at regular intervals.
 
